@@ -1,0 +1,36 @@
+html, body {
+    height: 100%;
+    direction: ltr;
+}
+.block_top_menu {
+    float: left;
+}
+.block_search {
+    float: right;
+}
+.block_top_social {
+    float: right;
+}
+#logo-top {
+    float: left;
+    padding-left: 30px;
+}
+.sidebar_right .main_content {
+    width: 648px;
+    float: right;
+}
+.sidebar_right .sidebar {
+    width: 266px;
+    float: left;
+}
+.block_posts.type_1 .posts article {
+    margin-left: 26px;
+    float: left;
+}
+.block_posts .post_type_1 .info .tags {
+    float: left;
+}
+.block_posts .post_type_1 .info .date {
+    margin-left: 3px;
+    float: left;
+}
